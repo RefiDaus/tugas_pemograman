@@ -4,4 +4,4 @@
 ### membuat paragraf
 <p> kode tag untuk paragraf adalah 
 <p> ini adalah tampilan
-<img ss"file.pmg">
+<img ssfile.pmg>
