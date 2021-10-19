@@ -4,7 +4,7 @@
 ### membuat paragraf
 '<p>' kode tag untuk pragraf adalah
 '<p>' ini adalah tampilannya
-![img]mm/ss1.png
+![gambar 1](mm/ss1.png)
 
 
 
