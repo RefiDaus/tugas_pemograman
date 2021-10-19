@@ -1,7 +1,12 @@
-# langkah langkah membuat biodata
-<p> Bukalah Visual Code atau Idle Python yang sudah anda Download dan Install
+# tugas_pemograman
+## belajar tag dasar pemograman
 
-'<p>' ikuti langkah langkah yang ada di gambar
-![gambar 1](mm/ss2.png)
-'<p>' Berikut contoh kode program biodata disertai kalimat
-![gambar 2](mm/ss3.png)
+### membuat paragraf
+'<p>' kode tag untuk pragraf adalah
+'<p>' ini adalah tampilannya
+![img]mm/ss1.png
+
+
+
+
+
