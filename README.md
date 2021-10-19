@@ -2,8 +2,8 @@
 ## belajar HTML
 
 ### membuat paragraf
-kode tag untuk paragraf adalah `<p>`
-ini adalah tampilan `<p>`
+`<p>` kode tag untuk paragraf adalah 
+`<p>` ini adalah tampilan 
 ![png](ss/file.pmg)
 
 
