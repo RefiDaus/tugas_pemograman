@@ -4,4 +4,4 @@
 ### membuat paragraf
 kode tag untuk paragraf adalah 
 ini adalah tampilan
-![img]mm/ss1.png
+![gambar 1](mm/ss1.png)
